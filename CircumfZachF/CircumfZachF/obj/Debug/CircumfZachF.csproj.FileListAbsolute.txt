@@ -1,0 +1,10 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Franks, Zachary (s436432)\Unit 1 (Problem Solving)\CircumfZachF\CircumfZachF\bin\Debug\CircumfZachF.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Franks, Zachary (s436432)\Unit 1 (Problem Solving)\CircumfZachF\CircumfZachF\bin\Debug\CircumfZachF.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Franks, Zachary (s436432)\Unit 1 (Problem Solving)\CircumfZachF\CircumfZachF\bin\Debug\CircumfZachF.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Franks, Zachary (s436432)\Unit 1 (Problem Solving)\CircumfZachF\CircumfZachF\obj\Debug\CircumfZachF.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Franks, Zachary (s436432)\Unit 1 (Problem Solving)\CircumfZachF\CircumfZachF\obj\Debug\CircumfZachF.Form1.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Franks, Zachary (s436432)\Unit 1 (Problem Solving)\CircumfZachF\CircumfZachF\obj\Debug\CircumfZachF.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Franks, Zachary (s436432)\Unit 1 (Problem Solving)\CircumfZachF\CircumfZachF\obj\Debug\CircumfZachF.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Franks, Zachary (s436432)\Unit 1 (Problem Solving)\CircumfZachF\CircumfZachF\obj\Debug\CircumfZachF.csproj.CoreCompileInputs.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Franks, Zachary (s436432)\Unit 1 (Problem Solving)\CircumfZachF\CircumfZachF\obj\Debug\CircumfZachF.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Franks, Zachary (s436432)\Unit 1 (Problem Solving)\CircumfZachF\CircumfZachF\obj\Debug\CircumfZachF.pdb
