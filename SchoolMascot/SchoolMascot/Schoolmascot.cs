@@ -25,24 +25,28 @@ namespace SchoolMascot
         }
         private void immaculataHighSchoolToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //this chages the label of the school name and motto
             this.lblschools.Text = "Immaculata";
             this.lblSchoolMotto.Text = "Studdy build caerter";
         }
 
         private void louisRielToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //this chages the label of the school name and motto
             this.lblschools.Text = "Louis - Riel";
             this.lblSchoolMotto.Text = "Louis - Riel active for life";
         }
 
         private void ashburyCollegeToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //this chages the label of the school name and motto
             this.lblschools.Text = "Lisgar";
             this.lblSchoolMotto.Text = "Nourish the Flame";
         }
 
         private void lisgarToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //this chages the label of the school name and motto
             this.lblschools.Text = "Ashbury";
                 this.lblSchoolMotto.Text = "Honesty, Courage, Kindness";
         }

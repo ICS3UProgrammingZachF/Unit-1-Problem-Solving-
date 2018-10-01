@@ -66,5 +66,10 @@ namespace AreaAndPerimeter
                 this.lblnamearea.Hide();
             this.lblnameperimeter.Hide();
         }
+
+        private void lblLenght_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

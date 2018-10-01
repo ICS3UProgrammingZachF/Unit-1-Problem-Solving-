@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{36F5F28C-A14A-4372-8688-3381EE3E7FEC}</ProjectGuid>
+    <ProjectGuid>{75EE2C55-4579-40CC-B6F2-2DC07CE6B8BC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CircumfZachF</RootNamespace>
-    <AssemblyName>CircumfZachF</AssemblyName>
+    <RootNamespace>PizzaCost</RootNamespace>
+    <AssemblyName>PizzaCost</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="circumfrince.cs">
+    <Compile Include="PizzaCost.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="circumfrince.Designer.cs">
-      <DependentUpon>circumfrince.cs</DependentUpon>
+    <Compile Include="PizzaCost.Designer.cs">
+      <DependentUpon>PizzaCost.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="Pcost.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="circumfrince.resx">
-      <DependentUpon>circumfrince.cs</DependentUpon>
+    <EmbeddedResource Include="PizzaCost.resx">
+      <DependentUpon>PizzaCost.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -64,7 +64,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,9 +77,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\circumfbackrond.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

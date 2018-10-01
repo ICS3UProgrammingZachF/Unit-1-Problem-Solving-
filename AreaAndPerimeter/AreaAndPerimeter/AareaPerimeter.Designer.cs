@@ -43,19 +43,22 @@
             // 
             this.lblLenght.AutoSize = true;
             this.lblLenght.BackColor = System.Drawing.Color.White;
+            this.lblLenght.Font = new System.Drawing.Font("Impact", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblLenght.Location = new System.Drawing.Point(244, 92);
             this.lblLenght.Name = "lblLenght";
-            this.lblLenght.Size = new System.Drawing.Size(40, 13);
+            this.lblLenght.Size = new System.Drawing.Size(79, 29);
             this.lblLenght.TabIndex = 0;
             this.lblLenght.Text = "Lenght";
+            this.lblLenght.Click += new System.EventHandler(this.lblLenght_Click);
             // 
             // lblWidth
             // 
             this.lblWidth.AutoSize = true;
             this.lblWidth.BackColor = System.Drawing.Color.White;
+            this.lblWidth.Font = new System.Drawing.Font("Impact", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblWidth.Location = new System.Drawing.Point(244, 135);
             this.lblWidth.Name = "lblWidth";
-            this.lblWidth.Size = new System.Drawing.Size(32, 13);
+            this.lblWidth.Size = new System.Drawing.Size(66, 29);
             this.lblWidth.TabIndex = 1;
             this.lblWidth.Text = "width";
             // 
@@ -63,9 +66,10 @@
             // 
             this.lblnamearea.AutoSize = true;
             this.lblnamearea.BackColor = System.Drawing.Color.White;
-            this.lblnamearea.Location = new System.Drawing.Point(278, 220);
+            this.lblnamearea.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblnamearea.Location = new System.Drawing.Point(203, 220);
             this.lblnamearea.Name = "lblnamearea";
-            this.lblnamearea.Size = new System.Drawing.Size(29, 13);
+            this.lblnamearea.Size = new System.Drawing.Size(71, 31);
             this.lblnamearea.TabIndex = 2;
             this.lblnamearea.Text = "Area";
             // 
@@ -73,9 +77,10 @@
             // 
             this.lblnameperimeter.AutoSize = true;
             this.lblnameperimeter.BackColor = System.Drawing.Color.White;
-            this.lblnameperimeter.Location = new System.Drawing.Point(278, 277);
+            this.lblnameperimeter.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblnameperimeter.Location = new System.Drawing.Point(203, 277);
             this.lblnameperimeter.Name = "lblnameperimeter";
-            this.lblnameperimeter.Size = new System.Drawing.Size(51, 13);
+            this.lblnameperimeter.Size = new System.Drawing.Size(131, 31);
             this.lblnameperimeter.TabIndex = 3;
             this.lblnameperimeter.Text = "Perimeter";
             // 
@@ -83,21 +88,23 @@
             // 
             this.lblanswerarea.AutoSize = true;
             this.lblanswerarea.BackColor = System.Drawing.Color.White;
+            this.lblanswerarea.Font = new System.Drawing.Font("Stencil Std", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblanswerarea.Location = new System.Drawing.Point(403, 220);
             this.lblanswerarea.Name = "lblanswerarea";
-            this.lblanswerarea.Size = new System.Drawing.Size(35, 13);
+            this.lblanswerarea.Size = new System.Drawing.Size(212, 36);
             this.lblanswerarea.TabIndex = 4;
-            this.lblanswerarea.Text = "label3";
+            this.lblanswerarea.Text = "answerarea";
             // 
             // lblanswerperimeter
             // 
             this.lblanswerperimeter.AutoSize = true;
             this.lblanswerperimeter.BackColor = System.Drawing.Color.White;
+            this.lblanswerperimeter.Font = new System.Drawing.Font("Stencil Std", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblanswerperimeter.Location = new System.Drawing.Point(403, 277);
             this.lblanswerperimeter.Name = "lblanswerperimeter";
-            this.lblanswerperimeter.Size = new System.Drawing.Size(35, 13);
+            this.lblanswerperimeter.Size = new System.Drawing.Size(304, 36);
             this.lblanswerperimeter.TabIndex = 5;
-            this.lblanswerperimeter.Text = "label3";
+            this.lblanswerperimeter.Text = "answerperimeter";
             // 
             // txtLength
             // 

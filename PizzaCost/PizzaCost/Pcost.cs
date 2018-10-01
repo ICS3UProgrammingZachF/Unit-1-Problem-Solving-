@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CircumfZachF
+namespace PizzaCost
 {
-    static class Program
+    static class Pcost
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,7 +16,7 @@ namespace CircumfZachF
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new circumfrece());
+            Application.Run(new PizzaCost());
         }
     }
 }
